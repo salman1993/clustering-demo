@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "clustering-demo"
+version = "0.1.0"
+description = "Web app to demo clustering results"
+authors = ["Salman Mohammed <smohammed1993@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pandas = "^1.0.3"
+streamlit = "^0.59.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
