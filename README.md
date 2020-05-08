@@ -1,6 +1,8 @@
 # clustering-demo
 Build a web app to demo clustering results
 
+Heroku App - https://clustering-demo.herokuapp.com/
+
 ### Local setup
 ```
 python3 -m venv venv
